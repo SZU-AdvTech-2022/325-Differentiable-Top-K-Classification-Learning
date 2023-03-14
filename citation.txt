@@ -1,0 +1,8 @@
+@inproceedings{REPO-326,
+    author = "Petersen, Felix and Kuehne, Hilde and Borgelt, Christian and Deussen, Oliver",
+    booktitle = "International Conference on Machine Learning",
+    organization = "PMLR",
+    pages = "17656--17668",
+    title = "{Differentiable Top-k Classification Learning}",
+    year = "2022"
+}
